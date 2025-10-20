@@ -1,0 +1,10 @@
+streamlit
+spacy
+nltk
+pymupdf
+python-docx
+mysql-connector-python
+pandas
+scikit-learn
+sentence-transformers
+plotly

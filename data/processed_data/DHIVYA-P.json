@@ -1,0 +1,18 @@
+{
+  "parsed": {
+    "Name": "Sri Kannikaparameswari Hr",
+    "Email": "dhivya032005@gmail.com",
+    "Phone": "+91 6369372912",
+    "Skills": [
+      "Git",
+      "Python",
+      "Sql"
+    ],
+    "Education": [
+      "bachelor"
+    ],
+    "Experience": "Not found"
+  },
+  "match": null,
+  "score": 45
+}
